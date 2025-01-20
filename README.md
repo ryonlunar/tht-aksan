@@ -1,2 +1,2 @@
-# tht-aksan
+# THT Aksantara
 Take Home Test Aksantara
